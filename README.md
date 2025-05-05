@@ -80,7 +80,7 @@ Pipeline([
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/duhansen/hearth.git
+git clone https://github.com/duhansen/heart.git
 cd analise-cardio
 ```
 
